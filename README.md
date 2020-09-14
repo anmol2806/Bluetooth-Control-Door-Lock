@@ -1,4 +1,6 @@
 # Bluetooth-Control-Door-Lock
+# First Hands On Project on Arduino 
+# June 2018
 
 As thefts are increasing day by day security is becoming a major concern nowadays. 
 In this project we will make a digital door lock system with keypad using Arduino Uno.
